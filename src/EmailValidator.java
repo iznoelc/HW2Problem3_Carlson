@@ -2,7 +2,6 @@
  * Validates a user's email address input.
  */
 public class EmailValidator implements Validator {
-    // source for email regex: https://stackoverflow.com/questions/8204680/java-regex-email
     private static final String EMAIL_REGEX = "^[a-zA-Z0-9_!#$%&'*+/=?``{|}~^.-]+@[a-zA-Z0-9.-]+$";
     private Validator nextValidator;
 
