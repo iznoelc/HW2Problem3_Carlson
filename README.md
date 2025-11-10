@@ -1,4 +1,4 @@
-# HW2Problem1_Carlson
+# HW2Problem3_Carlson
 
 ## User Registration Validation System
 A Java application that demonstrates the implementation of chain of responsibility (COR) pattern. Allows for the simulation of a user registration system, where a user is notified when their inputs are valid or invalid, determining whether they can 'register' for an application.
