@@ -12,6 +12,3 @@ COR pattern was used in order to pass the request of user validation along a cha
 - JavaSwing code provided on Canvas
 - https://stackoverflow.com/questions/8204680/java-regex-email
 - https://github.com/Simone16math/COR-JavaSwing-Presentation
-
-### Output
-See [output screenshot]()
